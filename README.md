@@ -4,7 +4,7 @@
 
 🎓 **Cybersecurity-focused Software Engineer** with a passion for building resilient, scalable, and innovative solutions.  
 🔐 Blending full-stack development with cybersecurity fundamentals to safeguard digital infrastructure.  
-💡 Currently pursuing Computer Software Engineering at **NUST**.
+💡 Currently pursuing Software Engineering at **NUST**.
 
 ---
 
